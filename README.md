@@ -1,1 +1,1 @@
-# OSSU Learning path
+# My OSSU projects and assignments.
